@@ -9,4 +9,10 @@ Data Description
  The dataset contains around 40 independent variables and 4000 data points.
  The independent variables are both continuous and categorical in nature.
  The dataset contains a unique identifier for each candidate
-(https://github.com/sapna-limbu/AMCAT-EDA-Project/assets/144699950/951bd3d3-aaba-48d1-9e29-c7ec6093f571)
+
+Dataset consists of
+27 Numerical columns
+9 catogorical columns
+2 datetime
+
+
